@@ -6,3 +6,4 @@ This repository contains a collection of R programming practice projects, includ
 
 ## Samples
 
+![Image Description](./Samples/hospital_ranking_example.png)
